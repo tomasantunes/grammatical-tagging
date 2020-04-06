@@ -1,2 +1,6 @@
 # grammatical-tagging
-Split text file to part-of-speech tags
+
+```
+pip install textblob
+python main.py "filename.txt"
+```
